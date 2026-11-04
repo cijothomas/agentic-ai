@@ -2,8 +2,15 @@ KAW Agentic AI course contents
 
 ## Slides
 
-The course deck uses [Slidev](https://sli.dev/). The two hello-world slides in
-`slides.md` are placeholders for the course material.
+The course deck uses [Slidev](https://sli.dev/). The 12-slide introduction in
+`slides.md` covers AI foundations, LLMs, prompts, agents, tools, RAG, search,
+protocols, frameworks, and agent architecture.
+
+The deck was converted from the supplied [Google Slides presentation](https://docs.google.com/presentation/d/1xSpnpqlJkiJ5g5Tb6Kf8ubTxwY5AUhGLZJiMEJaPXU4/edit).
+Text is editable in `slides.md`; shared layouts and colors are in `style.css`.
+The four original illustrations are retained in `public/images/` with descriptive
+alternative text. The conversion preserves the source's wording and slide order.
+PDF animations and speaker notes are not included.
 
 Published deck: <https://cijothomas.github.io/agentic-ai/>
 
